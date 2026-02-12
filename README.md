@@ -6,13 +6,13 @@ A simple Kanban Board application built using React, Vite, React Router and Tail
 
 ##  Features
 
-- 🔐 Login System (username stored in localStorage)
-- 📋 Add Tasks
-- 🔄 Move Tasks (Todo → In Progress → Done)
-- ❌ Delete Tasks
-- 💾 Data persists after refresh (localStorage)
-- 🎨 Modern UI using Tailwind CSS
-- 📱 Responsive layout
+- Login System (username stored in localStorage)
+- Add Tasks
+- Move Tasks (Todo → In Progress → Done)
+- Delete Tasks
+- Data persists after refresh (localStorage)
+- Modern UI using Tailwind CSS
+- Responsive layout
 
 ---
 
